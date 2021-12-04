@@ -1,5 +1,5 @@
 
 
-with open('hello.txt','w') as file:
+with open('hello1.txt','w') as file:
     for i in range(3):
-        file.write('Hello,world! {0} ....\n'.format(i))
+        file.write('Hello,world.lll! {0} ....\n'.format(i))
